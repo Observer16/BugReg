@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T08:10:39.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Q5OqiRdKx2mHwGXsZkBV" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T08:14:06.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="_JPzdNl0ZXGH23IK2LNb" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1374" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -32,6 +32,9 @@
         </mxCell>
         <mxCell id="f_JenwYtqU6vvS3KqWA8-1781" value="Электронная почта или телефон" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="760" y="-60" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f_JenwYtqU6vvS3KqWA8-1798" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#D79B00;strokeWidth=3;" edge="1" parent="1" source="f_JenwYtqU6vvS3KqWA8-1782" target="f_JenwYtqU6vvS3KqWA8-1796">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f_JenwYtqU6vvS3KqWA8-1782" value="Пароль" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="-160" width="150" height="60" as="geometry" />
@@ -83,6 +86,15 @@
             <mxPoint x="790" y="110" as="sourcePoint" />
             <mxPoint x="755" y="152.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f_JenwYtqU6vvS3KqWA8-1800" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#D79B00;strokeWidth=3;" edge="1" parent="1" source="f_JenwYtqU6vvS3KqWA8-1796" target="f_JenwYtqU6vvS3KqWA8-1799">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_JenwYtqU6vvS3KqWA8-1796" value="Войти" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f_JenwYtqU6vvS3KqWA8-1799" value="Код" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-360" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
